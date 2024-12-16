@@ -41,12 +41,4 @@ Gray World algoritması ile manipüle edilmiş görüntüler düzeltilmiş ve mo
 Sonuç ve Tartışma
 Proje sonunda, üç farklı test seti için elde edilen başarı oranları karşılaştırılmıştır. Raporlama kısmında, CNN modellerinin hassasiyetine ve çözüm önerilerine yer verilmiştir.
 
-Kurulum ve Çalıştırma
-Projeyi kendi bilgisayarınızda çalıştırmak için:
-
-Bu repo üzerindeki dosyaları indirin veya klonlayın:
-git clone https://github.com/kullaniciadi/aygaz-bootcamp-project.git
-
-Gerekli Python kütüphanelerini yükleyin:
-pip install -r requirements.txt
-Notebook dosyasını çalıştırarak adımları takip edin.
+.
