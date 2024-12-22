@@ -38,7 +38,23 @@ Test görüntülerine ışık manipülasyonu uygulanarak modelin performansı de
 Renk Sabitliği Uygulanması
 Gray World algoritması ile manipüle edilmiş görüntüler düzeltilmiş ve model yeniden test edilmiştir.
 
-Sonuç ve Tartışma
+----------
 Proje sonunda, üç farklı test seti için elde edilen başarı oranları karşılaştırılmıştır. Raporlama kısmında, CNN modellerinin hassasiyetine ve çözüm önerilerine yer verilmiştir.
 
-.
+Test Setlerinin Performans Karşılaştırması
+
+1. Test Setleri:
+Orijinal Test Seti: Eğitim dışı test verisi.
+Manipüle Edilmiş Test Seti: Işık değişiklikleri ile manipüle edilmiş veriler.
+Renk Sabitliği Uygulanan Test Seti: Renk dengesini iyileştiren algoritmalar uygulanmış veriler.
+
+2. Performans Karşılaştırması:
+Test Seti	                 Loss	     Accuracy
+Orijinal	                1.8411	   59.18%
+Manipüle Edilmiş	        3.9577	   10.56%
+Renk Sabitliği Uygulanan	3.6888	   10.67%
+
+3. Çözüm Yolları:
+Veri Artırma: Manipülasyonlara karşı dayanıklılığı artırabilir.
+Derin Model Yapıları: CNN gibi derin yapılar daha iyi sonuçlar verebilir.
+Transfer Learning: Önceden eğitilmiş modeller kullanılabilir.
