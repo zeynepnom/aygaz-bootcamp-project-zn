@@ -53,5 +53,5 @@ Renk Sabitliği Uygulanan	3.6888	   10.67%
 
 3. Çözüm Yolları:
 Veri Artırma: Manipülasyonlara karşı dayanıklılığı artırabilir.
-Derin Model Yapıları: CNN gibi derin yapılar daha iyi sonuçlar verebilir.
+Derin Model Yapıları: CNN modelindeki convolution ve pooling katmanları artırılarak daha fazla özellik çıkarılabilir.
 Transfer Learning: Önceden eğitilmiş modeller kullanılabilir.
